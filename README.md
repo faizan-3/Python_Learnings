@@ -9,3 +9,5 @@
 # How to create GITHUB Repo online?
 1) Create an online account on github
 2) enable vcs git log in pycharm local
+3) Commit specific files from the right click options
+4) 
